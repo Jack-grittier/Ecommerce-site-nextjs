@@ -33,7 +33,7 @@ __Habaneras de Lino__ is an online store to buy linen and cotton clothes that of
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/Ceci-Aguilera/habaneras_de_lino_frontend.git
+   git clone https://github.com/Jack-grittier/Ecommerce-site-nextjs.git
    ```
 
 1. Install Docker and Docker Compose
@@ -65,7 +65,7 @@ __Habaneras de Lino__ is an online store to buy linen and cotton clothes that of
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/Ceci-Aguilera/habaneras_de_lino_frontend.git
+   git clone https://github.com/Jack-grittier/Ecommerce-site-nextjs.git
    ```
 
 1. Install dependencies:
